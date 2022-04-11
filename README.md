@@ -1,5 +1,5 @@
 # About the Pokedex App
-App that calls the API ![https://pokeapi.co/](https://pokeapi.co/) and retrieves some information about a pokemon.
+App that calls the ![PokeAPI](https://pokeapi.co/) and retrieves some information about a pokemon.
 
 ## Built with
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
